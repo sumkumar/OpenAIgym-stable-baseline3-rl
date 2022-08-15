@@ -1,6 +1,6 @@
 # OpenAIgym-stable-baseline3-rl
 Examples of RL agents in envs with stable-baseline3 library
-Based on the following refernces
+Based on the following references
 
 https://github.com/DLR-RM/stable-baselines3
 
